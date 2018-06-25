@@ -1,0 +1,1 @@
+el codigo generado de la libreria de score que utilice no presenta mayores inconvenientes, simple, no tuve que arreglar nada , la critica que se le puede hacer es que falta mayor variabilidad por ejemplo otro tipos de puntajes como mayores asistencias o puntaje por level, tambien en vez de hacer 2 clases dentro del.h , quizas hubiese sido mejor hacer una struct de score.  
